@@ -58,15 +58,14 @@ p {
   }
 
   #small {
-    width: 46%;
+    width: 64%;
     float: left;
-    padding-right: 4%;
   }
 
   #medium {
-    width: 46%;
+    width: 30%;
     float: left;
-    padding-right: 4%;
+    padding: 3%;
   }
 
   #large {
