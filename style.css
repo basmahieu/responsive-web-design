@@ -65,7 +65,8 @@ p {
   #medium {
     width: 30%;
     float: left;
-    padding: 3%;
+    margin-left: 3%;
+    margin-right: 3%;
   }
 
   #large {
